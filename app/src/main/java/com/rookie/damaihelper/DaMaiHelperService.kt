@@ -19,14 +19,6 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.app.NotificationCompat
 
 
-/*
- *  @项目名：  AddFriend 
- *  @包名：    com.rookie.addfriend
- *  @文件名:   AddFriendService
- *  @创建者:   rookietree
- *  @创建时间:  2023/3/17 15:34
- *  @描述：
- */
 class DaMaiHelperService : AccessibilityService(), UserManager.IStartListener {
 
     companion object {
